@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/ANujJakhar2104/Leetcode/tree/master/0168-excel-sheet-column-title) |
+## Two Pointers
+|  |
+| ------- |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
