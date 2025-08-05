@@ -1,34 +1,20 @@
 class Solution {
-private:
-string word(stack<char>& a){
-    string x;
-    while (!a.empty()){
-        x = a.top() + x;
-        a.pop();
-    }
-    return x;
-}
 public:
     string reverseWords(string s) {
-        stack<char> a;
+        string word;
         string ans;
-
-       for (int i = 0; i < s.size(); i++) {
-            if (s[i] != ' ') {
-                a.push(s[i]);
-            } else if (!a.empty()) {
-                string m = word(a);
-                ans = m + " " +ans;
+        for(int i = s.size()-1 ; i>=0 ;i--){
+            if (!word.empty() && s[i] == ' '){
+                ans += word+" ";
+                word = "";
+            }
+            
+            if (s[i] != ' '){
+                word = s[i]+ word;
             }
         }
-
-        if (!a.empty()) {
-            string m = word(a);
-            ans = m + " " + ans;
-        }
-
+        if (!word.empty()) ans += word + " ";
         ans.pop_back();
-
         return ans;
     }
 };
