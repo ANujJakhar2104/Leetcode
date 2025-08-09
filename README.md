@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANujJakhar2104/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ANujJakhar2104/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ANujJakhar2104/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ANujJakhar2104/Leetcode/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/ANujJakhar2104/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/0231-power-of-two) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ANujJakhar2104/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ANujJakhar2104/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
