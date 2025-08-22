@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ANujJakhar2104/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ANujJakhar2104/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ANujJakhar2104/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Union Find
 |  |
 | ------- |
