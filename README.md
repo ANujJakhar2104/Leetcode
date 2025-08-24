@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ANujJakhar2104/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ANujJakhar2104/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ANujJakhar2104/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1813-maximum-erasure-value](https://github.com/ANujJakhar2104/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ANujJakhar2104/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/ANujJakhar2104/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Prefix Sum
 |  |
