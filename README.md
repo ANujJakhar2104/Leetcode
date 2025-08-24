@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ANujJakhar2104/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ANujJakhar2104/Leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ANujJakhar2104/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/ANujJakhar2104/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -211,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ANujJakhar2104/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ANujJakhar2104/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
