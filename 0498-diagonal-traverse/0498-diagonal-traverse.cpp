@@ -3,22 +3,37 @@ public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
         int m = mat.size();
         int n = mat[0].size();
-        vector<vector<int>> ans(m+n-1);
+        int i =0; 
+        int j=0;
+        bool flag = true;
+        vector<int> ans;
 
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                ans[i+j].push_back(mat[i][j]);
+        while (ans.size() != m*n){
+            ans.push_back(mat[i][j]);
+
+            if (flag){
+                if (i!= 0 && j!= n-1){
+                    i--;
+                    j++;
+                }
+                else{
+                    if (j == n-1) i++;
+                    else j++;
+                    flag = !flag;
+                }
+            }
+            else {
+                if (i!= m-1 && j!= 0){
+                    i++;
+                    j--;
+                }
+                else {
+                    if (i == m-1) j++;
+                    else i++;
+                    flag = !flag;
+                }
             }
         }
-
-        vector<int> val;
-        for(int i=0; i < m+n-1; i++){
-            if (i%2 ==0) reverse(ans[i].begin(), ans[i].end());
-            for(int x : ans[i]) {
-                val.push_back(x);
-            }
-        }
-
-        return val;
+        return ans;
     }
 };
