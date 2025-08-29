@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ANujJakhar2104/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/ANujJakhar2104/Leetcode/tree/master/2050-count-good-numbers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/ANujJakhar2104/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
 |  |
 | ------- |
