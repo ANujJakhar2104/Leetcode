@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ANujJakhar2104/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/ANujJakhar2104/Leetcode/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/ANujJakhar2104/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ANujJakhar2104/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ANujJakhar2104/Leetcode/tree/master/0455-assign-cookies) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ANujJakhar2104/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0221-maximal-square](https://github.com/ANujJakhar2104/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ANujJakhar2104/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0494-target-sum) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ANujJakhar2104/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ANujJakhar2104/Leetcode/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/ANujJakhar2104/Leetcode/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/ANujJakhar2104/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
