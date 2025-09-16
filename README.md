@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ANujJakhar2104/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ANujJakhar2104/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ANujJakhar2104/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/ANujJakhar2104/Leetcode/tree/master/2050-count-good-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ANujJakhar2104/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANujJakhar2104/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
