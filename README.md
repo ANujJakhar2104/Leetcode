@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/ANujJakhar2104/Leetcode/tree/master/1086-divisor-game) |
+| [1250-longest-common-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ANujJakhar2104/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ANujJakhar2104/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ANujJakhar2104/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
