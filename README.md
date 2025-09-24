@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANujJakhar2104/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ANujJakhar2104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ANujJakhar2104/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/ANujJakhar2104/Leetcode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/ANujJakhar2104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ANujJakhar2104/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ANujJakhar2104/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ANujJakhar2104/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ANujJakhar2104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/ANujJakhar2104/Leetcode/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ANujJakhar2104/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ANujJakhar2104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ANujJakhar2104/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/0231-power-of-two) |
