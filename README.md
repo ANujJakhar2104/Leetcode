@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
+| [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/ANujJakhar2104/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ANujJakhar2104/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ANujJakhar2104/Leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ANujJakhar2104/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ANujJakhar2104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/ANujJakhar2104/Leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ANujJakhar2104/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/ANujJakhar2104/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ANujJakhar2104/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ANujJakhar2104/Leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ANujJakhar2104/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ANujJakhar2104/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
