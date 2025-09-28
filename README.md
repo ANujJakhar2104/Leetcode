@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/ANujJakhar2104/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/ANujJakhar2104/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ANujJakhar2104/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ANujJakhar2104/Leetcode/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/ANujJakhar2104/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1086-divisor-game](https://github.com/ANujJakhar2104/Leetcode/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ANujJakhar2104/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ANujJakhar2104/Leetcode/tree/master/1086-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/ANujJakhar2104/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
