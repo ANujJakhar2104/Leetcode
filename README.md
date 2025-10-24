@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/ANujJakhar2104/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2023-design-movie-rental-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ANujJakhar2104/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/ANujJakhar2104/Leetcode/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/ANujJakhar2104/Leetcode/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ANujJakhar2104/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ANujJakhar2104/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0494-target-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANujJakhar2104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
