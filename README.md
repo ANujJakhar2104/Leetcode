@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3396-valid-word](https://github.com/ANujJakhar2104/Leetcode/tree/master/3396-valid-word) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ANujJakhar2104/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/ANujJakhar2104/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ANujJakhar2104/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ANujJakhar2104/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ANujJakhar2104/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ANujJakhar2104/Leetcode/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ANujJakhar2104/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Combinatorics
 |  |
 | ------- |
