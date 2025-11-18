@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ANujJakhar2104/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANujJakhar2104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ANujJakhar2104/Leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/ANujJakhar2104/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ANujJakhar2104/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANujJakhar2104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ANujJakhar2104/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ANujJakhar2104/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/ANujJakhar2104/Leetcode/tree/master/0221-maximal-square) |
