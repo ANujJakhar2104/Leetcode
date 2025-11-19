@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ANujJakhar2104/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ANujJakhar2104/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/ANujJakhar2104/Leetcode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ANujJakhar2104/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ANujJakhar2104/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/ANujJakhar2104/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ANujJakhar2104/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
