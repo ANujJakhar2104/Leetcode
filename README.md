@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ANujJakhar2104/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ANujJakhar2104/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ANujJakhar2104/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ANujJakhar2104/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Sliding Window
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/ANujJakhar2104/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ANujJakhar2104/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ANujJakhar2104/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Tree
 |  |
