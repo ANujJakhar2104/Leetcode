@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3433-count-mentions-per-user](https://github.com/ANujJakhar2104/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ANujJakhar2104/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ANujJakhar2104/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ANujJakhar2104/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ANujJakhar2104/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/ANujJakhar2104/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/ANujJakhar2104/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ANujJakhar2104/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
