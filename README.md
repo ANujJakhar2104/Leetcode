@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ANujJakhar2104/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ANujJakhar2104/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ANujJakhar2104/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/ANujJakhar2104/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ANujJakhar2104/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANujJakhar2104/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ANujJakhar2104/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
