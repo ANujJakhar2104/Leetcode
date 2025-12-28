@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ANujJakhar2104/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ANujJakhar2104/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ANujJakhar2104/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2054-two-best-non-overlapping-events](https://github.com/ANujJakhar2104/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANujJakhar2104/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ANujJakhar2104/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ANujJakhar2104/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
