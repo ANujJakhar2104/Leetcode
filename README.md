@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/ANujJakhar2104/Leetcode/tree/master/1048-longest-string-chain) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ANujJakhar2104/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ANujJakhar2104/Leetcode/tree/master/0621-task-scheduler) |
 | [0840-magic-squares-in-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1048-longest-string-chain](https://github.com/ANujJakhar2104/Leetcode/tree/master/1048-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ANujJakhar2104/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/ANujJakhar2104/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/ANujJakhar2104/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/ANujJakhar2104/Leetcode/tree/master/1048-longest-string-chain) |
 | [1086-divisor-game](https://github.com/ANujJakhar2104/Leetcode/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ANujJakhar2104/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ANujJakhar2104/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1048-longest-string-chain](https://github.com/ANujJakhar2104/Leetcode/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ANujJakhar2104/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ANujJakhar2104/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1048-longest-string-chain](https://github.com/ANujJakhar2104/Leetcode/tree/master/1048-longest-string-chain) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ANujJakhar2104/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -385,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/ANujJakhar2104/Leetcode/tree/master/0621-task-scheduler) |
 | [1018-largest-perimeter-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1048-longest-string-chain](https://github.com/ANujJakhar2104/Leetcode/tree/master/1048-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ANujJakhar2104/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/ANujJakhar2104/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [2054-two-best-non-overlapping-events](https://github.com/ANujJakhar2104/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
