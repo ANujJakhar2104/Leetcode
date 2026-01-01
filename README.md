@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ANujJakhar2104/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ANujJakhar2104/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/ANujJakhar2104/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0120-triangle) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ANujJakhar2104/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ANujJakhar2104/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ANujJakhar2104/Leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ANujJakhar2104/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/0231-power-of-two) |
