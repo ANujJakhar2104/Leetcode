@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/ANujJakhar2104/Leetcode/tree/master/1048-longest-string-chain) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/ANujJakhar2104/Leetcode/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ANujJakhar2104/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ANujJakhar2104/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/ANujJakhar2104/Leetcode/tree/master/1086-divisor-game) |
+| [1390-four-divisors](https://github.com/ANujJakhar2104/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ANujJakhar2104/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ANujJakhar2104/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
