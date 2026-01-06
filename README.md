@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/0101-symmetric-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/ANujJakhar2104/Leetcode/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/ANujJakhar2104/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ANujJakhar2104/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANujJakhar2104/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3863-power-grid-maintenance](https://github.com/ANujJakhar2104/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ANujJakhar2104/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/ANujJakhar2104/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ANujJakhar2104/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANujJakhar2104/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3863-power-grid-maintenance](https://github.com/ANujJakhar2104/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/0101-symmetric-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Trie
 |  |
 | ------- |
