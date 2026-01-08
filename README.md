@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ANujJakhar2104/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANujJakhar2104/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ANujJakhar2104/Leetcode/tree/master/0735-asteroid-collision) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ANujJakhar2104/Leetcode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/ANujJakhar2104/Leetcode/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/ANujJakhar2104/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Trie
