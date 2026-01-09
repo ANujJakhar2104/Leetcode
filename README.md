@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0621-task-scheduler](https://github.com/ANujJakhar2104/Leetcode/tree/master/0621-task-scheduler) |
 | [0840-magic-squares-in-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANujJakhar2104/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1048-longest-string-chain](https://github.com/ANujJakhar2104/Leetcode/tree/master/1048-longest-string-chain) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANujJakhar2104/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ANujJakhar2104/Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/ANujJakhar2104/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANujJakhar2104/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ANujJakhar2104/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ANujJakhar2104/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/ANujJakhar2104/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANujJakhar2104/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ANujJakhar2104/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANujJakhar2104/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANujJakhar2104/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Trie
