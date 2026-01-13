@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3433-count-mentions-per-user](https://github.com/ANujJakhar2104/Leetcode/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ANujJakhar2104/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ANujJakhar2104/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANujJakhar2104/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3453-separate-squares-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3453-separate-squares-i) |
 ## Sliding Window
 |  |
 | ------- |
