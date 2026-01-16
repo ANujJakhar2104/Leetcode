@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANujJakhar2104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANujJakhar2104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ANujJakhar2104/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANujJakhar2104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ANujJakhar2104/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Rolling Hash
 |  |
