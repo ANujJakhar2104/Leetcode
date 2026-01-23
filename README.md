@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANujJakhar2104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ANujJakhar2104/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ANujJakhar2104/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ANujJakhar2104/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ANujJakhar2104/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/ANujJakhar2104/Leetcode/tree/master/3396-valid-word) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ANujJakhar2104/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/ANujJakhar2104/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ANujJakhar2104/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ANujJakhar2104/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ANujJakhar2104/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ANujJakhar2104/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/ANujJakhar2104/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/ANujJakhar2104/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ANujJakhar2104/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ANujJakhar2104/Leetcode/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ANujJakhar2104/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ANujJakhar2104/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Combinatorics
 |  |
