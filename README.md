@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/ANujJakhar2104/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3640-trionic-array-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ANujJakhar2104/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ANujJakhar2104/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ANujJakhar2104/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ANujJakhar2104/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ANujJakhar2104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ANujJakhar2104/Leetcode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
+| [3640-trionic-array-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3640-trionic-array-ii) |
 ## Math
 |  |
 | ------- |
