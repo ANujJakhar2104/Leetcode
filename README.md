@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ANujJakhar2104/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ANujJakhar2104/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ANujJakhar2104/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/ANujJakhar2104/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ANujJakhar2104/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANujJakhar2104/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3453-separate-squares-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3453-separate-squares-i) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/ANujJakhar2104/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Sliding Window
 |  |
 | ------- |
