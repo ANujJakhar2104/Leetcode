@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/ANujJakhar2104/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ANujJakhar2104/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2050-parallel-courses-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/ANujJakhar2104/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ANujJakhar2104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ANujJakhar2104/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ANujJakhar2104/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2050-parallel-courses-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/ANujJakhar2104/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ANujJakhar2104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ANujJakhar2104/Leetcode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -679,7 +681,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ANujJakhar2104/Leetcode/tree/master/0743-network-delay-time) |
+| [2050-parallel-courses-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ANujJakhar2104/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ANujJakhar2104/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Topological Sort
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
