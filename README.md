@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ANujJakhar2104/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ANujJakhar2104/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ANujJakhar2104/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/ANujJakhar2104/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ANujJakhar2104/Leetcode/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ANujJakhar2104/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/ANujJakhar2104/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
