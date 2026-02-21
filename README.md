@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANujJakhar2104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -652,14 +653,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/ANujJakhar2104/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## String Matching
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/ANujJakhar2104/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/ANujJakhar2104/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Queue
 |  |
 | ------- |
