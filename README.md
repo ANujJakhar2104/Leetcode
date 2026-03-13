@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/ANujJakhar2104/Leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/ANujJakhar2104/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ANujJakhar2104/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/ANujJakhar2104/Leetcode/tree/master/0221-maximal-square) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ANujJakhar2104/Leetcode/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/ANujJakhar2104/Leetcode/tree/master/0621-task-scheduler) |
 | [0840-magic-squares-in-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/ANujJakhar2104/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/ANujJakhar2104/Leetcode/tree/master/0455-assign-cookies) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/ANujJakhar2104/Leetcode/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANujJakhar2104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/ANujJakhar2104/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
