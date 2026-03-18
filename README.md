@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ANujJakhar2104/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ANujJakhar2104/Leetcode/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ANujJakhar2104/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/ANujJakhar2104/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ANujJakhar2104/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/0494-target-sum) |
