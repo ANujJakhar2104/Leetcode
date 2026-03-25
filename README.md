@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/ANujJakhar2104/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ANujJakhar2104/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/ANujJakhar2104/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/ANujJakhar2104/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2906-construct-product-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ANujJakhar2104/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Tree
 |  |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2906-construct-product-matrix](https://github.com/ANujJakhar2104/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ANujJakhar2104/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/ANujJakhar2104/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Union Find
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ANujJakhar2104/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANujJakhar2104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ANujJakhar2104/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Rolling Hash
 |  |
