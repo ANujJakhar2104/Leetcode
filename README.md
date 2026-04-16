@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/ANujJakhar2104/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3488-closest-equal-element-queries](https://github.com/ANujJakhar2104/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ANujJakhar2104/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANujJakhar2104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/ANujJakhar2104/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3488-closest-equal-element-queries](https://github.com/ANujJakhar2104/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ANujJakhar2104/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/ANujJakhar2104/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANujJakhar2104/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ANujJakhar2104/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3453-separate-squares-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/ANujJakhar2104/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/ANujJakhar2104/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Sliding Window
 |  |
