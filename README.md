@@ -757,4 +757,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/2050-parallel-courses-iii) |
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
