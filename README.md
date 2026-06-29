@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ANujJakhar2104/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ANujJakhar2104/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ANujJakhar2104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ANujJakhar2104/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ANujJakhar2104/Leetcode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ANujJakhar2104/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ANujJakhar2104/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANujJakhar2104/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANujJakhar2104/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ANujJakhar2104/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ANujJakhar2104/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
