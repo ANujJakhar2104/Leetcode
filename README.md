@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ANujJakhar2104/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ANujJakhar2104/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ANujJakhar2104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ANujJakhar2104/Leetcode/tree/master/0072-edit-distance) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ANujJakhar2104/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ANujJakhar2104/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANujJakhar2104/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/0085-maximal-rectangle) |
