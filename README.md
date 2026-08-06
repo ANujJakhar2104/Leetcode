@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ANujJakhar2104/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANujJakhar2104/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/ANujJakhar2104/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3863-power-grid-maintenance](https://github.com/ANujJakhar2104/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANujJakhar2104/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ANujJakhar2104/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANujJakhar2104/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/ANujJakhar2104/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3863-power-grid-maintenance](https://github.com/ANujJakhar2104/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ANujJakhar2104/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3310-remove-methods-from-project](https://github.com/ANujJakhar2104/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ANujJakhar2104/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
