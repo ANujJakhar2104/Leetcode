@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ANujJakhar2104/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANujJakhar2104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ANujJakhar2104/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/ANujJakhar2104/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ANujJakhar2104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANujJakhar2104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/ANujJakhar2104/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3488-closest-equal-element-queries](https://github.com/ANujJakhar2104/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/ANujJakhar2104/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/ANujJakhar2104/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANujJakhar2104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANujJakhar2104/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ANujJakhar2104/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/ANujJakhar2104/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/ANujJakhar2104/Leetcode/tree/master/3433-count-mentions-per-user) |
