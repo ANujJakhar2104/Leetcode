@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/ANujJakhar2104/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ANujJakhar2104/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/ANujJakhar2104/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3433-count-mentions-per-user](https://github.com/ANujJakhar2104/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ANujJakhar2104/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ANujJakhar2104/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
