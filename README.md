@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ANujJakhar2104/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ANujJakhar2104/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/ANujJakhar2104/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ANujJakhar2104/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ANujJakhar2104/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ANujJakhar2104/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ANujJakhar2104/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ANujJakhar2104/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ANujJakhar2104/Leetcode/tree/master/0735-asteroid-collision) |
 | [1106-parsing-a-boolean-expression](https://github.com/ANujJakhar2104/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ANujJakhar2104/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ANujJakhar2104/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ANujJakhar2104/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -854,4 +856,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/ANujJakhar2104/Leetcode/tree/master/1114-print-in-order) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ANujJakhar2104/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
